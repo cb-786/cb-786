@@ -39,7 +39,7 @@
     <p>Feel free to reach out on my social media:</p>
     <ul>
         <li><a style="text-decoration:none;"href="https://www.linkedin.com/in/aspiring-chirag-bansal-/">LinkedIn</a></li>
-        <li><a style="text-decoration:none;" href="cbansal_be23@thapar.edu">Email</a></li>
+        <li><a style="text-decoration:none;" href="https://mail.google.com/mail/u/0/#inbox">cbansal_be23@thapar.edu</a></li>
     </ul>
 
   <h2>🎉 Thank You for Visiting!</h2>
