@@ -19,19 +19,20 @@
   <div style="display:flex">
      <div><h2>🛠️ Technologies & Tools</h2>
     <ul>
-        <li> C++</li>
-        <li> JavaScript</li>
-        <li> Data Structures</li>
-        <li> Algorithms</li>
-        <li>  HTML5 </li>
-         <li>  CSS </li>
-        <li> Node.js </li>
-        <li> Express.js </li>
-        <li> Embedded js </li>
-        <li> MySQL </li>
-        <li> MongoDB </li>
-        <li> React.js </li>
-    </ul></div>
+        <li>💻 C++</li>
+<li>📜 JavaScript</li>
+<li>🗂️ Data Structures</li>
+<li>⚙️ Algorithms</li>
+<li>🌐 HTML5</li>
+<li>🎨 CSS</li>
+<li>🛠️ Node.js</li>
+<li>🚀 Express.js</li>
+<li>📄 Embedded js</li>
+<li>🗄️ MySQL</li>
+<li>🍃 MongoDB</li>
+<li>⚛️ React.js</li>
+
+</ul></div>
 
   
   </div>
